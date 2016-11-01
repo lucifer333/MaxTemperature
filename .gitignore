@@ -3,6 +3,6 @@
 #忽略.project文件
 .project
 #忽略target/目录下的所有文件
-target/
+target/*
 #仅仅忽略项目根目录下的.setting文件，但不包括subdir/.setting
-.setting/
+.setting/*
